@@ -1,0 +1,13 @@
+Hi, my name is Asoh Yannick. I am very pleased to share my massive e-commerce web application built with the MEAN stack with you and the global community of developers who are passionate and enthusiastic about MongoDB, Express.js, Angular, and Node.js.
+
+This project has been created purposefully to enhance personal software development and growth, while also having a global objective to help and assist developers in succeeding in their careers using the MEAN stack.
+
+MongoDB, which is a non-relational database management system, has been used to create, store, organize, query, and retrieve data for this e-commerce web application. Express.js has been used to build the backend APIs and middleware for the frontend of this application.
+
+Angular has been utilized to create highly robust, secure, and functional components across the entire application, ensuring a seamless and easy-to-use user interface (UI) and user experience (UX). Node.js has been greatly utilized, with all its core APIs and middleware, to build a highly robust, functional, and secure backend web server.
+
+Please feel free to clone this project from my GitHub repository to your machine and follow the installation guide to install and build all the dependencies of our Express backend API. Also, ensure you set up all the environmental variables for this application to work successfully with the Express backend API, as well as for the UI with Angular to communicate with our backend Express API.
+
+Create a .env file and set up the environment variables, e.g., MONGO_URL="Enter your connection string here". Now run npm install && npm run dev to install the Express backend API dependencies and start the local development server on port 8000.
+
+Open a pull request (PR) if you wish to contribute to this MEAN e-commerce web application, and I will gladly review your PR and provide feedback.
